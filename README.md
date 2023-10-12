@@ -3,7 +3,7 @@ Package your Node.js project into an executable, *but the target is an age-old l
 
 ## Use Case
 
-- You want to make executables for your app, which need to be used on a x86/32bit Windows System. But now that the **pkg** has a;[altogether stopped](https://github.com/vercel/pkg/issues/1634#issuecomment-1141919208) its support for x86, you are on a no-mans land!
+- You want to make executables for your app, which need to be used on a x86/32bit Windows System. But now that the **pkg** has [altogether stopped](https://github.com/vercel/pkg/issues/1634#issuecomment-1141919208) its support for x86, you are on a no-mans land!
 
 ## Solution
 

@@ -1,0 +1,33 @@
+{
+  "name": "pkg-x86",
+  "version": "0.0.1",
+  "description": "Package your Node.js project into an executable, but the target is an age-old legacy Windows!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flick-network/pkg-x86.git"
+  },
+  "keywords": [
+    "pkg",
+    "window",
+    "x86",
+    "32bit"
+  ],
+  "author": "flick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flick-network/pkg-x86/issues"
+  },
+  "homepage": "https://github.com/flick-network/pkg-x86#readme",
+  "dependencies": {
+    "node": "14",
+    "minimist": "^1.2.8",
+    "pkg": "4.5.1"
+  },
+  "bin": {
+    "pkg-x86": "./pkg-x86.js"
+  }
+}

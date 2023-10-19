@@ -1,6 +1,8 @@
 # pkg-x86
 Package your Node.js project into an executable, *but the target is an age-old legacy 32bit Windows PC!*
 
+> :innocent: To make this exe console-less, you can try [my Gist in GoLang!](https://gist.github.com/amexn-me/59928f2c2900b12ec2f1f76ce39e2cb2)
+
 ## Use Case
 
 - You want to make executables for your app, which need to be used on a x86/32bit Windows System. But now that the **pkg** has [altogether stopped](https://github.com/vercel/pkg/issues/1634#issuecomment-1141919208) its support for x86, you are on a no-mans land!
